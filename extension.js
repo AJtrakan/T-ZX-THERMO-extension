@@ -1,6 +1,6 @@
 ({
     name: "T-ZX-THERMO", // Category Name
-    description: "Non-Contact Temperature Sensor",
+    description: "Non-Contact Temperature Sensor Edi I2C",
     author: "AJ.TAY_By_INEX",
     category: "Sensors",
     version: "1.0.1",
