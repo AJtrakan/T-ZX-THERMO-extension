@@ -1,9 +1,9 @@
 ({
     name: "T-ZX-THERMO", // Category Name
     description: "Non-Contact Temperature Sensor",
-    author: "AJ.TAY@INEX",
+    author: "AJ.TAY_By_INEX",
     category: "Sensors",
-    version: "1.0.0",
+    version: "1.0.1",
     icon: "/static/icon.png", // Category icon
     color: "#27AE60", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
